@@ -28,21 +28,21 @@ module.exports = {
         global.fake = global.fake
         global.fkontak = global.fkontak
         global.doc = pickRandom(["application/vnd.ms-excel", "application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/msword", "application/pdf"])
-        global.img = 'https://telegra.ph/file/0c567eac403737766688f.jpg'
+        global.img = 'https://telegra.ph/file/6ee260e228805b17f1579.jpg'
         global.fla = pickRandom(global.flaaa)
         global.namabot = conn.user.name
-        global.packname = '© CUTE IQ-MD'
-        global.author = 'Made By Ziv San © 2022'
+        global.packname = '© SxyoBotz-MD'
+        global.author = 'Made By mass aji© 2022'
         global.packname2 = 'Made With'
-        global.author2 = 'Cute Bot By Ziv San © 2022'
-        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Ziv San˚'
-        global.wm2 = '© CUTE IQ-MD' + ' ' + 'By Ziv San'
-        global.wm = '© CUTE IQ-MD'
+        global.author2 = 'Sxyo By mass aji© 2022'
+        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By aji˚'
+        global.wm2 = '© SXYOBOTZ' + ' ' + 'By Mass aji'
+        global.wm = '© SXYOBOTZ-MD'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'By Haori & Ziv San'
+        global.colong2 = 'By Sxyo & Aji'
         global.kontak2 = [
-        ['16199961931', 'Ziv San', 'Creator Bot', 'Zivsan@support.com', true],
-        ['6282179137771', 'CUTE IQ-MD', 'Bot WhatsApp', 'Just Bot', true]
+        ['6287793236775', 'Mass Aji', 'Creator Bot', 'sxyobotz@support.com', true],
+        ['6282147562437', 'Sxyobotz', 'Bot WhatsApp', 'Just Bot', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
