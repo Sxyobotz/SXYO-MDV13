@@ -32,20 +32,20 @@ let fetch = require('node-fetch')
          }}) 
      } catch (e) { 
          let tulisan = ` 
- *Join Juga Group Official Cute Bot!* 
+ *Join Juga Group Owner SxyoBotz!* 
 Sekedar meramaikan, atau juga jika ada informasi mengenai bot. 
   
  *Group 1* 
-https://chat.whatsapp.com/Kyz397uqvJZ5AvX7I4BSID
+https://chat.whatsapp.com/EOv8e2Fkncg0BEDXVmhY7c
  
  `.trim() 
      await conn.sendButtonDoc(m.chat, tulisan.trim(), 'Harap patuhi rules dan peraturan pada masing masing group ya! Terimakasih.', 'Rules', '.rules', m, {
     quoted: m,
     contextInfo: { forwardingScore: 99999, isForwarded: true,
         externalAdReply: {
-        	sourceUrl: 'https://vt.tiktok.com/ZSRRmS8vh/',
+        	sourceUrl: 'https://vt.tiktok.com/ZSRRmS8vg/',
             title: 'Gruop Official',
-            body: '© Cute IQ-MD By Ziv San',
+            body: '© SxyoBotz By Mass aji',
           thumbnail: await (await fetch('https://telegra.ph/file/f05029f17de62fb420459.jpg')).buffer()
         }
      }
