@@ -1,9 +1,9 @@
 let handler = async (m, { conn, usedPrefix }) => conn.sendButton(m.chat, `
 ╭─「 Donasi • Dana 」
-│ • Tri [0895336282144]
-│ • Gopay  [0895336282144]
-│ • Dana  [0895336282144]
-│ • Saweria  [https://saweria.co/thesadboy01]
+│ • Telkom [082147562437]
+│ • Gopay  [085338890541]
+│ • XL     [087793236775]
+│ • Saweria  [https://saweria.co/sxyobotz]
 ╰────
 ╭─「 *NOTE* 」
 │ > Ingin donasi? Wa.me/62895336282144
